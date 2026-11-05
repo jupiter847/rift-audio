@@ -2,7 +2,7 @@
 
 RIFT is my UI/UX concept for a futuristic headphone website. I wanted it to feel bold and technical, while keeping the main task simple: explore the headphones, choose a colour and save a setup.
 
-
+[View the live demo](https://jupiter847.github.io/rift-audio/)
 
 ## The idea
 
