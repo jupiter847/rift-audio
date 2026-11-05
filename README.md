@@ -1,14 +1,16 @@
 # RIFT / AUDIO
 
-RIFT is my UI/UX concept for a futuristic headphone website. I wanted it to feel bold and technical, while keeping the main task simple: explore the headphones, choose a colour and save a setup.
+RIFT is my responsive UI/UX prototype for a fictional headphone brand. I designed the product page for visitors who want to inspect the headphones, compare finishes and save a setup they like.
+
+The core journey is **explore → customise → save**, supported by a movable 3D model and a component explorer.
 
 [View the live demo](https://jupiter847.github.io/rift-audio/)
 
 ## The idea
 
-I used off-white, black and signal red, with large type and technical diagrams. The 3D views let people look closer at the product and its parts.
+I used off-white, black and signal red to create a strong hierarchy between the product, controls and technical information. Large type and schematic diagrams give the page its technical character.
 
-I kept the main controls easy to find and put position and zoom under **More controls**. The **Under the Surface** section shows the cushion, frame and controls as wireframes. Selecting a labelled detail highlights that part.
+I kept finish selection and saving in the main flow, with position and zoom under **More controls**. The **Under the Surface** section lets visitors switch between wireframe and solid views of the cushion, frame and controls. Selecting a labelled detail highlights the corresponding part.
 
 ## What you can try
 
