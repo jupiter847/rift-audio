@@ -1,0 +1,8 @@
+{
+  "name": "rift-audio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A headphone website with interactive 3D views.",
+  "scripts": { "dev": "python -m http.server 4183 --bind 127.0.0.1 --directory dist" }
+}
